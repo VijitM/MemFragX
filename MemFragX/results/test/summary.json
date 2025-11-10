@@ -1,0 +1,9 @@
+{
+    "trace_file": "mftrace_log.csv",
+    "records": 9,
+    "allocs": 6,
+    "frees": 3,
+    "threads": 1,
+    "total_alloc_bytes": 15729664,
+    "net_alloc_bytes": 15729664
+}

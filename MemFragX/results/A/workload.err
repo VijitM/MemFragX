@@ -1,0 +1,2 @@
+[mftrace] header written to /home/ubuntu/Downloads/MemFragX-main/results/A/mftrace_log.csv
+malloc_trim(0) invoked via signal
